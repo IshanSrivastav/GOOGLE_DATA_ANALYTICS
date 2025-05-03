@@ -4,7 +4,7 @@
 
 This repository contains data analysis case studies, including:
 
-1. **Cyclistic Bike Share Analysis**
+1. **Cyclistic Bike Share Analysis** - [Presentation](https://docs.google.com/presentation/d/1l9Q3Mr7_JjkrcRLP_Ms0EKF5KBrH85OFtLv9T1Qki0Q/edit?slide=id.g3517bb137cc_0_2#slide=id.g3517bb137cc_0_2)
 2. **Bellabeat Case Study**
 
 ---
